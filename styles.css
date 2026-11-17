@@ -97,6 +97,13 @@ a {
   letter-spacing: -0.05em;
 }
 
+.brand-logo {
+  width: 65px;
+  height: 65px;
+  object-fit: contain;
+  display: block;
+}
+
 .brand-mark {
   display: grid;
   width: 34px;
